@@ -113,6 +113,17 @@ Star the repo if you find it useful! ⭐
 - No-code tools vary in native performance and scalability. Complex apps may benefit from hybrid approaches.
 - Self-hosted open-source solutions require technical setup and maintenance for mobile deployment.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-No-Code-AI-Mobile-App-Builders&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-No-Code-AI-Mobile-App-Builders&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-No-Code-AI-Mobile-App-Builders&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-No-Code-AI-Mobile-App-Builders&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for citizen developers, startups, agencies, and mobile app creators.** 🚀  
