@@ -40,43 +40,51 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated No Code / Low Code AI Native Mobile App Builders
 
-- **[MIT App Inventor](https://github.com/mit-cml/appinventor-sources)**  
-  Classic open-source no-code platform for building fully functional native Android apps using visual blocks and AI extensions.
-
-- **[FlutterFlow Open Alternatives](https://github.com/search?q=flutterflow+open+source)**  
-  Community-driven open-source visual builders and code generators for Flutter-based native apps.
-
-- **[Budibase](https://github.com/Budibase/budibase)**  
-  Open-source low-code platform with mobile-responsive apps and PWA capabilities that can be wrapped into native apps.
-
-- **[Tooljet](https://github.com/ToolJet/ToolJet)**  
-  Open-source low-code platform for building internal tools and mobile-friendly applications.
-
-- **[Appsmith](https://github.com/appsmithorg/appsmith)**  
-  Open-source low-code framework for building custom internal tools and mobile web apps with JavaScript extensibility.
-
-- **[Saltcorn](https://github.com/saltcorn/saltcorn)**  
-  Open-source no-code platform for building database-driven web and mobile applications.
-
-- **[Directus](https://github.com/directus/directus)**  
-  Open-source headless CMS that powers custom mobile apps through APIs and visual interfaces.
-
-- **[NocoDB](https://github.com/nocodb/nocodb)**  
-  Open-source Airtable alternative that can power no-code mobile app backends with REST/GraphQL APIs.
-
-- **[Dify](https://github.com/langgenius/dify)**  
-  Open-source AI application builder with visual workflows that can be extended to mobile apps.
-
-- **[Langflow](https://github.com/langflow-ai/langflow)**  
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
   Visual no-code/low-code environment for building AI-powered applications with mobile deployment potential.
 
-### Additional Strong Open-Source Options
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+  Open-source AI application builder with visual workflows that can be extended to mobile apps.
 
-- **[Framework7](https://github.com/framework7io/framework7)** — Open-source mobile UI framework for building native-looking apps.
-- **[Ionic Framework](https://github.com/ionic-team/ionic)** — Open-source SDK for building high-performance mobile apps.
-- **[Capacitor](https://github.com/ionic-team/capacitor)** — Open-source native runtime for web apps to run as native mobile apps.
-- **[Godot Engine](https://github.com/godotengine/godot)** — Open-source engine with strong 2D/3D mobile export capabilities and visual scripting.
-- **[Odoo Mobile](https://github.com/odoo/odoo)** extensions for no-code business mobile apps.
+- **[Godot Engine](https://github.com/godotengine/godot)** [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)  
+  Open-source engine with strong 2D/3D mobile export capabilities and visual scripting.
+
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+  Open-source Airtable alternative that can power no-code mobile app backends with REST/GraphQL APIs.
+
+- **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+  Open-source business applications suites, with mobile extensions for no-code business apps.
+
+- **[Ionic Framework](https://github.com/ionic-team/ionic)** [![GitHub stars](https://img.shields.io/github/stars/ionic-team/ionic?style=social&color=white)](https://github.com/ionic-team/ionic/stargazers)  
+  Open-source SDK for building high-performance mobile apps.
+
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+  Open-source low-code framework for building custom internal tools and mobile web apps with JavaScript extensibility.
+
+- **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+  Open-source headless CMS that powers custom mobile apps through APIs and visual interfaces.
+
+- **[Tooljet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+  Open-source low-code platform for building internal tools and mobile-friendly applications.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  Open-source low-code platform with mobile-responsive apps and PWA capabilities that can be wrapped into native apps.
+
+- **[Framework7](https://github.com/framework7io/framework7)** [![GitHub stars](https://img.shields.io/github/stars/framework7io/framework7?style=social&color=white)](https://github.com/framework7io/framework7/stargazers)  
+  Open-source mobile UI framework for building native-looking apps.
+
+- **[Capacitor](https://github.com/ionic-team/capacitor)** [![GitHub stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)  
+  Open-source native runtime for web apps to run as native mobile apps.
+
+- **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)  
+  Open-source no-code platform for building database-driven web and mobile applications.
+
+- **[MIT App Inventor](https://github.com/mit-cml/appinventor-sources)** [![GitHub stars](https://img.shields.io/github/stars/mit-cml/appinventor-sources?style=social&color=white)](https://github.com/mit-cml/appinventor-sources/stargazers)  
+  Classic open-source no-code platform for building fully functional native Android apps using visual blocks and AI extensions.
+
+### Additional Community Options & Resources
+
+- **[FlutterFlow Open Alternatives](https://github.com/search?q=flutterflow+open+source)** — Community-driven open-source visual builders and code generators for Flutter-based native apps.
 - Many community **Flutter** + **AI code gen** templates for visual-like development.
 
 **Frameworks for building custom builders**: Combine **MIT App Inventor**, **Budibase**, **Tooljet**, **Appsmith**, and **Flutter** with **Ollama** and **LangGraph** for fully local, AI-powered no-code native mobile app development.
