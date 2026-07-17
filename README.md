@@ -23,14 +23,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (No Code AI Native Mobile App Builders)
 
-| Platform | Description | Free Tier / Limits | Pricing |
-| :--- | :--- | :--- | :--- |
-| **[Adalo](https://www.adalo.com/)** | Popular no-code platform for building native mobile apps with database, logic, and AI-assisted design. | **Yes** (Free Forever)<br>• Max 500 database records/app<br>• Cannot publish to App Stores or custom domain<br>• Adalo branding, 1 editor | Starts at **$36/month** (billed annually) or $45/month |
-| **[GoodBarber](https://www.goodbarber.com/)** | Feature-rich no-code builder focused on beautiful native apps for e-commerce and content. | **No** (30-day free trial only) | Content apps start at **$25-$30/month**; E-commerce apps start at **$40/month** |
-| **[Thunkable](https://www.thunkable.com/)** | Powerful drag-and-drop platform with AI features and native component support. | **Yes** (Free Forever)<br>• Max 3 public projects, 5 screens/project<br>• 100 MB account storage<br>• Cannot publish to App Stores | Starts at **$23-$39/month** |
-| **[FlutterFlow](https://flutterflow.io/)** | Visual builder for Flutter apps with AI assistance and high-performance native output. | **Yes** (Free Forever)<br>• Max 2 active projects, 2 API endpoints<br>• Lifetime limit of 5 AI generation requests<br>• Cannot download code or publish to App Stores | Starts at **$39/month** (billed annually) or $49/month |
-| **[Choicely](https://www.choicely.com/)** | No-code platform specializing in engaging mobile apps with strong AI capabilities. | **Yes** (Free Forever)<br>• Max 50 daily credits (max 300 credits/month)<br>• Cannot publish or scale without upgrading | Premium starts at **$25/month** (billed annually); Business starts at **$50/month** |
-| **[Draftbit](https://draftbit.com/)** | Visual builder that exports clean React Native code for native iOS and Android apps. | **Yes** (Free Forever)<br>• Max 3 projects<br>• One-time 5,000 credits for AI building<br>• Cannot publish to App Stores or export source code | Standard starts at **$12/month** (billed annually); Pro starts at **$24/month** |
+| Platform | Description | Free Tier / Limits | Pricing | Company Size (Est.) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[FlutterFlow](https://flutterflow.io/)** | Visual builder for Flutter apps with AI assistance and high-performance native output. | **Yes** (Free Forever)<br>• Max 2 active projects, 2 API endpoints<br>• Lifetime limit of 5 AI generation requests<br>• Cannot download code or publish to App Stores | Starts at **$39/month** (billed annually) or $49/month | **$25M – $33M ARR** / $75M+ Valuation |
+| **[Adalo](https://www.adalo.com/)** | Popular no-code platform for building native mobile apps with database, logic, and AI-assisted design. | **Yes** (Free Forever)<br>• Max 500 database records/app<br>• Cannot publish to App Stores or custom domain<br>• Adalo branding, 1 editor | Starts at **$36/month** (billed annually) or $45/month | **$24M ARR** / $180M+ Valuation |
+| **[Thunkable](https://www.thunkable.com/)** | Powerful drag-and-drop platform with AI features and native component support. | **Yes** (Free Forever)<br>• Max 3 public projects, 5 screens/project<br>• 100 MB account storage<br>• Cannot publish to App Stores | Starts at **$23-$39/month** | **$10.4M ARR** |
+| **[GoodBarber](https://www.goodbarber.com/)** | Feature-rich no-code builder focused on beautiful native apps for e-commerce and content. | **No** (30-day free trial only) | Content apps start at **$25-$30/month**; E-commerce apps start at **$40/month** | **$5M – $5.6M ARR** / $15M Valuation |
+| **[Choicely](https://www.choicely.com/)** | No-code platform specializing in engaging mobile apps with strong AI capabilities. | **Yes** (Free Forever)<br>• Max 50 daily credits (max 300 credits/month)<br>• Cannot publish or scale without upgrading | Premium starts at **$25/month** (billed annually); Business starts at **$50/month** | **$2.7M ARR** |
+| **[Draftbit](https://draftbit.com/)** | Visual builder that exports clean React Native code for native iOS and Android apps. | **Yes** (Free Forever)<br>• Max 3 projects<br>• One-time 5,000 credits for AI building<br>• Cannot publish to App Stores or export source code | Standard starts at **$12/month** (billed annually); Pro starts at **$24/month** | **$2.6M ARR** / $7.7M Valuation |
 
 ### Advanced & Specialized Platforms
 
