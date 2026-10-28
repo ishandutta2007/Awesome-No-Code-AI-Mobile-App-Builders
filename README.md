@@ -43,6 +43,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Mobiroller](https://www.mobiroller.com/)** | Self-service mobile app builder to create Android and iOS apps without coding. | **Yes** (Free trial/Freemium)<br>• Build and preview app for free<br>• 14-day trial of paid features | Starts at **$15/month** (billed annually) or $18/month | **$2.3M ARR** / 15–20 Employees |
 | **[AppMySite](https://www.appmysite.com/)** | No-code mobile app builder that converts WordPress and other websites into native mobile apps. | **Yes** (Free Forever)<br>• Unlimited apps, 1 Android build<br>• AppMySite branding<br>• Cannot publish to App Store | Starts at **$69/month** | **$3.6M ARR** / $10.9M Valuation |
 | **[Replit Mobile (Agent)](https://replit.com/)** | Build native iOS and Android apps (React Native + Expo) using conversational AI and deploy directly. | **Yes** (Starter Free Tier)<br>• Daily AI agent credit limits<br>• 1 published app | Starts at **$18/month** (billed annually) or $20/month (Replit Core) | **$9B Valuation** / ~250 Employees |
+| **[Newly](https://newly.app/)** | AI app builder for native iOS and Android apps from prompts, with React Native/Expo source export. | No free tier | Paid plans from $25/month; credits included | Not publicly disclosed |
 
 ### 🛠️ Advanced & Specialized Platforms
 
